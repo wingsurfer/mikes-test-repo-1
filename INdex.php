@@ -3,7 +3,9 @@
         <title>Hello Mike</title>
     </head>
 <body>
-    Hello world1!!!
+    <?Php 
+        $helloMesage = 'Hello Mike';
+    echo $helloMesage ?>
 </body>
 
     </html>
